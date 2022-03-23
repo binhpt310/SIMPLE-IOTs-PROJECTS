@@ -12,25 +12,28 @@ Project [link](https://www.tinkercad.com/things/ciWLSuowpUR-bai-tap-1) on Tinker
 
 Project [link](https://www.tinkercad.com/things/5eN7n56HtNl-bai-tap-2-) on Tinkercard
 
-```Gif here``` 
+![number2](https://user-images.githubusercontent.com/64649752/159738686-d7218f1e-68d5-449a-b097-fad76b4d73c7.gif)
 
 ## 3. Traffic lights display by 7-segment display
 
 Project [link](https://www.tinkercad.com/things/gcBfyhLxIah-bai-tap-3) on Tinkercard
 
-```Gif here``` 
+![number3](https://user-images.githubusercontent.com/64649752/159739831-f5c67b57-5df8-466c-879d-761994967afb.gif)
+
 
 ## 4. Ultrasonic Distance Sensor with 7-segment display
 
 Project [link](https://www.tinkercad.com/things/6B33Kdxrbb8-bai-tap-5) on Tinkercard
 
-```Gif here``` 
+
+![number4](https://user-images.githubusercontent.com/64649752/159741427-4ded8f77-aca5-42b2-ab76-9823750fb9d0.gif)
 
 
 ## 5. Ultrasonic Distance Sensor with 7-segment display and LCD 16x2
 
 Project [link](https://www.tinkercad.com/things/63V0B6hjDt3-bai-tap-6) on Tinkercard
 
-```Gif here``` 
+![number5](https://user-images.githubusercontent.com/64649752/159741450-f31cddc8-95d6-403f-be0e-1ff8b9e5bacf.gif)
+
 
 ### Updating...
