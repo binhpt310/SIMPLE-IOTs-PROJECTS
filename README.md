@@ -6,7 +6,7 @@ My simple IOTs projects for newbie.
 
 Project [link](https://www.tinkercad.com/things/ciWLSuowpUR-bai-tap-1) on Tinkercard
 
-```Gif here``` 
+ ![number1](https://user-images.githubusercontent.com/64649752/159734422-e0362b8f-6bd7-4209-ab4b-4583db1f38fb.gif)
 
 ## 2. Control Led Dice with pushbutton
 
